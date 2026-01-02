@@ -1,6 +1,4 @@
-## Hi there 👋 I am Anastasiia! I am looking for Junior Golang Developer position.
-***✍️ My wish to learn list:
-gRPC, WebSocket, Kafka, Google Cloud, Microservices architecture.***
+## Hi there 👋 I am Anastasiia! I am looking for Junior Python Developer position.
 
 ## Languages 
 
