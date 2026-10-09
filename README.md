@@ -1,10 +1,10 @@
-## Hi there 👋 I am Anastasiia! I am Golang Developer.
+## Hi there 👋 I am Anastasiia! I am Golang Developer with 1 year of commercial experience.
 
 ## Languages 
 
 - **Ukrainian** – Native
 - **Polish** – Pre-Intermediate(A2)
-- **English** – Intermediate (B1)
+- **English** – Upper-Intermediate (B2)
 
 ## My Skill Set  
 <div align="center">  
